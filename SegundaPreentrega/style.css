@@ -1,0 +1,16 @@
+form > label{
+    background-color: lightblue;
+    padding: 10px;
+    margin: 5px;
+}    
+#recuadroVerde{
+    background-color: lightgreen;
+    padding: 10px;
+}
+button{
+    background-color: darkcyan;
+    padding: 5px;
+    color: white;
+    width: 80px;
+    margin: 10px;
+}
